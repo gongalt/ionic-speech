@@ -1,0 +1,7 @@
+{
+  "name": "speech-to-text",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
